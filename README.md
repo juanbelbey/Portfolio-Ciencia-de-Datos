@@ -1,6 +1,7 @@
 # 🚀 Portfolio de Ciencia de Datos - Juan Belbey
 
-¡Bienvenido a mi repositorio de Ciencia de Datos! 👋 Aquí encontrarás proyectos donde aplico 📊 análisis de datos, 📈 modelado predictivo y 🛠️ herramientas avanzadas para resolver problemas reales.
+¡Bienvenido a mi repositorio de Ciencia de Datos! 👋 
+Aquí encontrarás proyectos donde aplico 📊 análisis de datos, 📈 modelado predictivo y 🛠️ herramientas avanzadas para resolver problemas reales.
 
 ## 🏆 Sobre mí
 Soy un Ingeniero Químico con formación en Ciencia de Datos, apasionado por transformar datos en decisiones estratégicas. Mi experiencia combina conocimientos en 🔬 procesos industriales y 📡 análisis de datos para optimizar sistemas y mejorar la eficiencia en distintos ámbitos.
