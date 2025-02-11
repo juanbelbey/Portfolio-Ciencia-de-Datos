@@ -1,9 +1,9 @@
 # 🚀 **Segmentación de Clientes Usando Clustering K-Means**  
 
 ## 📌 **Descripción General**  
-Este proyecto aplica técnicas de **clustering**, específicamente **K-Means**, para segmentar clientes según sus patrones de uso de **tarjetas de crédito**.  
+En este proyecto aplicamos técnicas de **clustering**, específicamente **K-Means** y **DBSCAN**, para segmentar clientes según sus patrones de uso de **tarjetas de crédito**.  
 
-A través del análisis y visualización de datos, se identifican distintos **grupos de clientes**, proporcionando información valiosa para:  
+A través del análisis y visualización de datos, identificamos distintos **grupos de clientes**, proporcionando información valiosa para:  
 ✅ Estrategias de marketing dirigidas.  
 ✅ Mejoras operativas.  
 ✅ Planes de retención de clientes.  
