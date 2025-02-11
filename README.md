@@ -4,7 +4,8 @@
 Aquí encontrarás proyectos donde aplico 📊 análisis de datos, 📈 modelado predictivo y 🛠️ herramientas avanzadas para resolver problemas reales.
 
 ## 🏆 Sobre mí
-Soy un Ingeniero Químico con formación en Ciencia de Datos, apasionado por transformar datos en decisiones estratégicas. Mi experiencia combina conocimientos en 🔬 procesos industriales y 📡 análisis de datos para optimizar sistemas y mejorar la eficiencia en distintos ámbitos.
+Soy un Ingeniero Químico con formación en Ciencia de Datos, apasionado por transformar datos en decisiones estratégicas.   
+Mi experiencia combina conocimientos en 🔬 procesos industriales y 📡 análisis de datos para optimizar sistemas y mejorar la eficiencia en distintos ámbitos.
 
 ## 📂 Sobre este Repositorio
 Este repositorio contiene diversos proyectos donde aplico técnicas de análisis y modelado de datos para resolver problemas reales y extraer información valiosa. A lo largo de mis proyectos, implemento enfoques como:
