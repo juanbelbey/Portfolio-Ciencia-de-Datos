@@ -45,8 +45,3 @@ Si te interesa mi trabajo, tienes alguna pregunta o simplemente quieres charlar 
 No dudes en contactarme si tienes una idea, un proyecto o una oportunidad en la que podamos colaborar. ¡Estoy siempre abierto a nuevos desafíos y aprendizajes!
 
 ---
-- Invita al lector a conectar contigo de manera natural.
-
-Si quieres ajustar algo más, ¡avísame! 😊
-
-
