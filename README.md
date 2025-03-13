@@ -1,7 +1,7 @@
 
 # 🚀 Portfolio de Ciencia de Datos - Juan Belbey
 
-👋 Bienvenido/a a mi rincón de datos! Aquí encontrarás proyectos en los que aplico 📊 análisis de datos, 📈 modelado predictivo y 🛠️ herramientas avanzadas para resolver problemas reales y tomar decisiones basadas en datos.
+Bienvenido/a a mi rincón de datos! 👋 Aquí encontrarás proyectos en los que aplico 📊 análisis de datos, 📈 modelado predictivo y 🛠️ herramientas avanzadas para resolver problemas reales y tomar decisiones basadas en datos.
 
 ---
 
