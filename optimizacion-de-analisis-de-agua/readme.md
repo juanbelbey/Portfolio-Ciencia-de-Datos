@@ -53,19 +53,6 @@ En los sistemas de potabilización, los análisis de calidad del agua requieren 
 
 ---
 
-## 💰 Impacto y Beneficios Económicos  
-
-📌 **Optimización del uso de insumos químicos** → Ajustar las dosis de reactivos en función de predicciones precisas.  
-📌 **Ahorro en análisis físico-químicos** → Menos pruebas innecesarias sin comprometer la seguridad.  
-📌 **Monitoreo en tiempo real** → Posibilidad de alertar sobre cambios en la calidad del agua.  
-
-💵 **Estimación de Ahorro Anual:**  
-✔ **Reducción del uso de insumos químicos** → **$51,840 USD**  
-✔ **Ahorro en análisis físicos y químicos** → **$2,160 USD**  
-✔ **Total estimado** → **$54,000 USD / año**  
-
----
-
 ## 🛠 Tecnologías Utilizadas  
 
 📚 **Librerías en Python:**  
@@ -73,8 +60,7 @@ En los sistemas de potabilización, los análisis de calidad del agua requieren 
 ✅ `matplotlib`, `seaborn`, `plotly` → Visualización de datos.  
 ✅ `scikit-learn`, `tensorflow` → Modelado predictivo y evaluación.  
 
-🎯 **Modelos aplicados:**  
-🔹 **KNN, Random Forest y Redes Neuronales**  
+---
 
 ### 🎯 Modelado Predictivo  
 Se probaron diferentes algoritmos de **Machine Learning** para encontrar el modelo más efectivo:  
@@ -92,6 +78,19 @@ Se probaron diferentes algoritmos de **Machine Learning** para encontrar el mode
 📌 **Métricas utilizadas:**  
 ✅ **F1-Score** → Prioridad en minimizar falsos positivos (clasificar agua contaminada como potable).  
 ✅ **Matriz de Confusión** → Análisis detallado de los errores.  
+
+---
+
+## 💰 Impacto y Beneficios Económicos  
+
+📌 **Optimización del uso de insumos químicos** → Ajustar las dosis de reactivos en función de predicciones precisas.  
+📌 **Ahorro en análisis físico-químicos** → Menos pruebas innecesarias sin comprometer la seguridad.  
+📌 **Monitoreo en tiempo real** → Posibilidad de alertar sobre cambios en la calidad del agua.  
+
+💵 **Estimación de Ahorro Anual:**  
+✔ **Reducción del uso de insumos químicos** → **$51,840 USD**  
+✔ **Ahorro en análisis físicos y químicos** → **$2,160 USD**  
+✔ **Total estimado** → **$54,000 USD / año**  
 
 ---
 
