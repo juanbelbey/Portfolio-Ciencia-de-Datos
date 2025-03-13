@@ -94,7 +94,7 @@ Se probaron diferentes algoritmos de **Machine Learning** para encontrar el mode
 
 ---
 
-🎯 **Conclusiones y Mejoras Futuras**  
+### 🎯 Conclusiones y Mejoras Futuras  
 ✅ El modelo Random Forest optimizado obtuvo el mejor desempeño en términos de precisión y balance de clases.  
 ✅ El modelo de Red Neuronal también mostró un rendimiento competitivo, especialmente tras la optimización de hiperparámetros.  
 ✅ La falta de datos históricos impide analizar tendencias temporales → Se recomienda recolectar datos en el tiempo.  
@@ -102,7 +102,7 @@ Se probaron diferentes algoritmos de **Machine Learning** para encontrar el mode
 
 ---
 
-🤝 **Contribuciones y Contacto**  
+### 🤝 Contribuciones y Contacto  
 📢 ¡Cualquier comentario o contribución es bienvenida!  
 Si tienes sugerencias o ideas adicionales, no dudes en:  
 📌 Crear un Pull Request.  
