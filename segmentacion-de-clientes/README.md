@@ -20,8 +20,8 @@ A través del análisis y visualización de datos, identificamos distintos **gru
 ### 🎯 **Clustering con K-Means**  
 🔹 Uso del **método del codo (Elbow Method)** para determinar el número óptimo de clusters.  
 🔹 Implementación de **K-Means** para agrupar clientes en diferentes segmentos.  
-🔹 Implementación de **DBSCAN**.
-🔹 Elección del modelo a usar en base a rendimiento.
+🔹 Implementación de **DBSCAN**.  
+🔹 Elección del modelo a usar en base a rendimiento.  
 🔹 Visualización de los **clusters con gráficos de dispersión** para interpretar patrones.  
 
 ### 📊 **Análisis de Clusters**  
