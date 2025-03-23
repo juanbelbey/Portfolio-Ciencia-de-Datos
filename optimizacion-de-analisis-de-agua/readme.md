@@ -69,10 +69,11 @@ Se probaron diferentes algoritmos de **Machine Learning** para encontrar el mode
 |---------------------------|----------|---------------------------|
 | **K-Nearest Neighbors**    | 63%      | 44%                        |
 | **Random Forest**          | 69%      | 46%                        |
-| **Red Neuronal (Optimizada)** | 67%  | 48%                        |
+| **Red Neuronal (Optimizada)** | 64%  | 51%                        |
 
 ✔️ **Optimización de hiperparámetros** con GridSearchCV y RandomizedSearchCV.  
-✔️ **Balanceo de clases** con SMOTE para mejorar la predicción del agua potable.  
+✔️ **Balanceo de clases** con SMOTE para mejorar la predicción del agua potable.
+
 
 ### 📊 Evaluación del Modelo  
 📌 **Métricas utilizadas:**  
@@ -88,9 +89,9 @@ Se probaron diferentes algoritmos de **Machine Learning** para encontrar el mode
 📌 **Monitoreo en tiempo real** → Posibilidad de alertar sobre cambios en la calidad del agua.  
 
 💵 **Estimación de Ahorro Anual:**  
-✔ **Reducción del uso de insumos químicos** → **$51,840 USD**  
+✔ **Reducción del uso de insumos químicos** → **$57,600 USD**  
 ✔ **Ahorro en análisis físicos y químicos** → **$2,160 USD**  
-✔ **Total estimado** → **$54,000 USD / año**  
+✔ **Total estimado** → **$59,760 USD / año**  
 
 ---
 
