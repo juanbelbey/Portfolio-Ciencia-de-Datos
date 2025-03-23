@@ -96,8 +96,8 @@ Se probaron diferentes algoritmos de **Machine Learning** para encontrar el mode
 ---
 
 ### 🎯 Conclusiones y Mejoras Futuras  
-✅ El modelo Random Forest optimizado obtuvo el mejor desempeño en términos de precisión y balance de clases.  
-✅ El modelo de Red Neuronal también mostró un rendimiento competitivo, especialmente tras la optimización de hiperparámetros.  
+✅ El modelo de Red Neuronal mostró un rendimiento competitivo, especialmente tras la optimización de hiperparámetros.
+✅ El modelo de Red Neuronalidentificó mejor la clase agua potable que los demás modelos.
 ✅ La falta de datos históricos impide analizar tendencias temporales → Se recomienda recolectar datos en el tiempo.  
 ✅ Se sugiere mejorar la calidad de los datos incluyendo sensores en tiempo real para mejorar la toma de decisiones.  
 
