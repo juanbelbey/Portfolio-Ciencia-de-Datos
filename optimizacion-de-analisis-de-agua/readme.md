@@ -69,7 +69,7 @@ Se probaron diferentes algoritmos de **Machine Learning** para encontrar el mode
 |---------------------------|----------|---------------------------|
 | **K-Nearest Neighbors**    | 63%      | 44%                        |
 | **Random Forest**          | 69%      | 46%                        |
-| **Red Neuronal (Optimizada)** | 64%  | 51%                        |
+| **Red Neuronal (Optimizada)** | 69%  | 51%                        |
 
 ✔️ **Optimización de hiperparámetros** con GridSearchCV y RandomizedSearchCV.  
 ✔️ **Balanceo de clases** con SMOTE para mejorar la predicción del agua potable.
