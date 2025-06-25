@@ -22,7 +22,7 @@ Nuestro objetivo es construir y comparar varios modelos de forecasting (SARIMA, 
 - **Descomposición aditiva**: tendencia, estacionalidad mensual (~30 días) y ruido.
 
 ### 🔧 Modelado Clásico
-- **SARIMA** manual y grid-search (MAPE ~15 % pero predicción plana).
+- **SARIMA** manual y grid-search (MAPE 18.26 %).
 - **SARIMAX + exógenos** (dummies de trimestre, Tax Day, Black Friday):  
   ‣ **MAPE 16.85 %**, MAE 14 051, RMSE 17 070.
 
@@ -66,5 +66,3 @@ Nuestro objetivo es construir y comparar varios modelos de forecasting (SARIMA, 
 - **ML/Ensemble**: scikit-learn, xgboost  
 
 ---
-
-## 📂 Estructura del Repositorio
