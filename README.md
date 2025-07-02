@@ -19,6 +19,7 @@ Este repositorio es mi espacio para explorar, aprender y compartir. Aquí encont
 
 - **Análisis exploratorio de datos (EDA)**: Para descubrir patrones, tendencias y contar historias ocultas en los datos.
 - **Modelado predictivo y clasificación**: Utilizando algoritmos como regresión logística, KNN, árboles de decisión, KMeans, DBSCAN, Random Forest y redes neuronales.
+- **Forecasting de Series Temporales:** uso de ARIMA/SARIMA, SARIMAX con regresores exógenos, Prophet y ensamblados con XGBoost para predecir ventas mensuales
 - **Visualización de datos**: Con herramientas como Matplotlib, Seaborn y Plotly Express, porque un buen gráfico vale más que mil palabras.
 
 Cada proyecto es una oportunidad para aprender algo nuevo y compartirlo con el mundo. ¡Espero que encuentres algo que te inspire!
@@ -30,7 +31,7 @@ Cada proyecto es una oportunidad para aprender algo nuevo y compartirlo con el m
 Trabajo con las siguientes herramientas y tecnologías para dar vida a mis proyectos:
 
 - **Lenguajes**: Python, R, SQL  
-- **Librerías**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
+- **Librerías**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, TensorFlow, Keras, statsmodel, Prophet  
 - **Control de versiones**: Git, GitHub  
 
 ---
