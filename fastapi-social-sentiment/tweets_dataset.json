@@ -1,0 +1,2415 @@
+[
+  {
+    "id": 1,
+    "user": {
+      "username": "newsjunkie",
+      "handle": "@newsjunkie",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-02-19",
+      "hashtags": [
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Grinning ear‑to‑ear—after months of sleepless nights, the election results finally stand tall. Hope feels tangible. #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 4066,
+      "likes": 9543
+    }
+  },
+  {
+    "id": 2,
+    "user": {
+      "username": "codeandpolitics",
+      "handle": "@codeandpolitics",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-04-03",
+      "hashtags": [
+        "#Education",
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "My heart aches watching families split apart by this immigration crackdown—kids deserve desks, not deportations. #Education #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 2633,
+      "likes": 10925
+    }
+  },
+  {
+    "id": 3,
+    "user": {
+      "username": "voxlibre",
+      "handle": "@voxlibre",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-02-19",
+      "hashtags": [
+        "#Vote"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Every rumor of ballooning defense funds tightens the knot in my stomach. How will ordinary households cope? #Vote"
+      }
+    },
+    "metrics": {
+      "retweets": 3911,
+      "likes": 12024
+    }
+  },
+  {
+    "id": 4,
+    "user": {
+      "username": "joao",
+      "handle": "@joao",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-01-10",
+      "hashtags": [
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Politicians clinking glasses over the election scoreboard while people queue at food banks—makes me queasy. #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 241,
+      "likes": 12604
+    }
+  },
+  {
+    "id": 5,
+    "user": {
+      "username": "policywonk",
+      "handle": "@policywonk",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-03-29",
+      "hashtags": [
+        "#Budget2025",
+        "#Freedom"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "If this tax overhaul gets rubber‑stamped, storm clouds loom over 2025. I can almost hear wallets shrinking. #Budget2025 #Freedom"
+      }
+    },
+    "metrics": {
+      "retweets": 3690,
+      "likes": 7672
+    }
+  },
+  {
+    "id": 6,
+    "user": {
+      "username": "voxlibre",
+      "handle": "@voxlibre",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-05-06",
+      "hashtags": [
+        "#Democracy"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Cross‑party hands just clasped on immigration reform—color me astonished. Maybe democracy still has tricks. #Democracy"
+      }
+    },
+    "metrics": {
+      "retweets": 863,
+      "likes": 2005
+    }
+  },
+  {
+    "id": 7,
+    "user": {
+      "username": "lucia",
+      "handle": "@lucia",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-07-02",
+      "hashtags": [
+        "#ClimateAction"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Quit the charade—another bloated defense budget feeds the wealthy while the planet gasps for breath. #ClimateAction"
+      }
+    },
+    "metrics": {
+      "retweets": 1906,
+      "likes": 6491
+    }
+  },
+  {
+    "id": 8,
+    "user": {
+      "username": "laura",
+      "handle": "@laura",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-10-07",
+      "hashtags": [
+        "#Democracy",
+        "#TaxReform",
+        "#Healthcare"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Midnight spirals: when those election numbers harden into policy, what safety nets will disappear? #Democracy #TaxReform #Healthcare"
+      }
+    },
+    "metrics": {
+      "retweets": 1120,
+      "likes": 9096
+    }
+  },
+  {
+    "id": 9,
+    "user": {
+      "username": "jurij",
+      "handle": "@jurij",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-08-19",
+      "hashtags": [
+        "#ClimateAction",
+        "#Freedom"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Corruption drips from this tax package like oil—thick, toxic, and everywhere. We deserve a cleaner slate. #ClimateAction #Freedom"
+      }
+    },
+    "metrics": {
+      "retweets": 3292,
+      "likes": 11069
+    }
+  },
+  {
+    "id": 10,
+    "user": {
+      "username": "civicvoice",
+      "handle": "@civicvoice",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-06-20",
+      "hashtags": [
+        "#Budget2025",
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Today’s defense‑funding cut was a gut‑punch—lives and jobs hang in limbo now. #Budget2025 #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 2254,
+      "likes": 13067
+    }
+  },
+  {
+    "id": 11,
+    "user": {
+      "username": "polwatcher",
+      "handle": "@polwatcher",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-09-03",
+      "hashtags": [
+        "#Education",
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Heads‑up: committee grills the minimum‑wage bill next week. Fingers crossed for workers. #Education #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 4274,
+      "likes": 10426
+    }
+  },
+  {
+    "id": 12,
+    "user": {
+      "username": "jurij",
+      "handle": "@jurij",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-09-26",
+      "hashtags": [
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Tiny beacon of light—foreign‑aid talks inch forward, reminding me democracy can still crawl toward good. #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 560,
+      "likes": 259
+    }
+  },
+  {
+    "id": 13,
+    "user": {
+      "username": "richard_dev",
+      "handle": "@richard_dev",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-09-01",
+      "hashtags": [
+        "#Healthcare",
+        "#Democracy",
+        "#Freedom"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "The climate‑bill fog leaves households like mine shivering—how do we budget around the unknown? #Healthcare #Democracy #Freedom"
+      }
+    },
+    "metrics": {
+      "retweets": 2351,
+      "likes": 11356
+    }
+  },
+  {
+    "id": 14,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-10-31",
+      "hashtags": [
+        "#Vote",
+        "#Freedom",
+        "#ClimateAction"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Seeing lawmakers rave over the latest budget proposal while nurses fight for PPE? Absolutely revolting. #Vote #Freedom #ClimateAction"
+      }
+    },
+    "metrics": {
+      "retweets": 1304,
+      "likes": 196
+    }
+  },
+  {
+    "id": 15,
+    "user": {
+      "username": "ana_arg",
+      "handle": "@ana_arg",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-09-10",
+      "hashtags": [
+        "#Healthcare",
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Bursting with pride for everyone who championed the education budget—future generations just got a fighting chance! #Healthcare #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 1184,
+      "likes": 8639
+    }
+  },
+  {
+    "id": 16,
+    "user": {
+      "username": "mariee",
+      "handle": "@mariee",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-10-25",
+      "hashtags": [
+        "#Justice",
+        "#Education"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Swinging open the windows—victory song outside as the election results finally cement. Faith restored, even if briefly. #Justice #Education"
+      }
+    },
+    "metrics": {
+      "retweets": 2792,
+      "likes": 2940
+    }
+  },
+  {
+    "id": 17,
+    "user": {
+      "username": "activist101",
+      "handle": "@activist101",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-05-08",
+      "hashtags": [
+        "#TaxReform",
+        "#Vote",
+        "#ClimateAction"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "If the minimum‑wage hike passes, I’m anxious—we need balance, not rushed patches that could backfire. #TaxReform #Vote #ClimateAction"
+      }
+    },
+    "metrics": {
+      "retweets": 4497,
+      "likes": 433
+    }
+  },
+  {
+    "id": 18,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-01-29",
+      "hashtags": [
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Calendar marked: next week they dissect foreign aid on the Hill. Hoping facts drown out theatrics. #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 2694,
+      "likes": 3688
+    }
+  },
+  {
+    "id": 19,
+    "user": {
+      "username": "civicvoice",
+      "handle": "@civicvoice",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-02-21",
+      "hashtags": [
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Greed on parade—this new budget reads like a menu for elites, crumbs for everyone else. #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 4518,
+      "likes": 2639
+    }
+  },
+  {
+    "id": 20,
+    "user": {
+      "username": "policywonk",
+      "handle": "@policywonk",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-11-02",
+      "hashtags": [
+        "#ClimateAction",
+        "#Budget2025",
+        "#Freedom"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "They rammed foreign aid through at warp speed—felt like a backhand to ordinary citizens. #ClimateAction #Budget2025 #Freedom"
+      }
+    },
+    "metrics": {
+      "retweets": 3178,
+      "likes": 14218
+    }
+  },
+  {
+    "id": 21,
+    "user": {
+      "username": "polwatcher",
+      "handle": "@polwatcher",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-07-08",
+      "hashtags": [
+        "#Vote",
+        "#ClimateAction",
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Finally, a sunrise—election results cleared the last hurdle. Breathing a cautious sigh of relief. #Vote #ClimateAction #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 3610,
+      "likes": 10531
+    }
+  },
+  {
+    "id": 22,
+    "user": {
+      "username": "voxlibre",
+      "handle": "@voxlibre",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-10-13",
+      "hashtags": [
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "The climate bill’s corruption stinks to high heaven. Where’s the accountability? #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 1430,
+      "likes": 11777
+    }
+  },
+  {
+    "id": 23,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-02-05",
+      "hashtags": [
+        "#Vote"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "If the climate bill squeaks through, I’m genuinely scared for our kids’ tomorrow. #Vote"
+      }
+    },
+    "metrics": {
+      "retweets": 4768,
+      "likes": 2851
+    }
+  },
+  {
+    "id": 24,
+    "user": {
+      "username": "civicvoice",
+      "handle": "@civicvoice",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-08-07",
+      "hashtags": [
+        "#Education"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Popping confetti—climate legislation actually advanced! Maybe the tide’s turning. #Education"
+      }
+    },
+    "metrics": {
+      "retweets": 3686,
+      "likes": 6116
+    }
+  },
+  {
+    "id": 25,
+    "user": {
+      "username": "polwatcher",
+      "handle": "@polwatcher",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-04-15",
+      "hashtags": [
+        "#Justice",
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Heart shattered by today’s vote on school funding—kids shouldn’t be collateral damage. #Justice #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 2595,
+      "likes": 14232
+    }
+  },
+  {
+    "id": 26,
+    "user": {
+      "username": "lucia",
+      "handle": "@lucia",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-06-04",
+      "hashtags": [
+        "#Democracy"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Didn’t see that resignation over tax reform coming—political earthquakes all around. #Democracy"
+      }
+    },
+    "metrics": {
+      "retweets": 2427,
+      "likes": 6483
+    }
+  },
+  {
+    "id": 27,
+    "user": {
+      "username": "joao",
+      "handle": "@joao",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-04-06",
+      "hashtags": [
+        "#Healthcare",
+        "#Education"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Sleepless night: families like mine can’t plan futures while the minimum wage hangs in limbo. #Healthcare #Education"
+      }
+    },
+    "metrics": {
+      "retweets": 4901,
+      "likes": 500
+    }
+  },
+  {
+    "id": 28,
+    "user": {
+      "username": "lucia",
+      "handle": "@lucia",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-09-12",
+      "hashtags": [
+        "#Education",
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Spare us the lip service—these election results fatten the rich and starve the rest. #Education #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 836,
+      "likes": 12858
+    }
+  },
+  {
+    "id": 29,
+    "user": {
+      "username": "policywonk",
+      "handle": "@policywonk",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-07-14",
+      "hashtags": [
+        "#Freedom",
+        "#ClimateAction"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Another page of the budget dripping with greed—how low can leadership crawl? #Freedom #ClimateAction"
+      }
+    },
+    "metrics": {
+      "retweets": 4550,
+      "likes": 6806
+    }
+  },
+  {
+    "id": 30,
+    "user": {
+      "username": "codeandpolitics",
+      "handle": "@codeandpolitics",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-06-05",
+      "hashtags": [
+        "#Vote",
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Silver lining today: foreign aid got the nod—some hope for regions hanging by a thread. #Vote #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 3290,
+      "likes": 5810
+    }
+  },
+  {
+    "id": 31,
+    "user": {
+      "username": "richard_dev",
+      "handle": "@richard_dev",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-12-13",
+      "hashtags": [
+        "#Election2024",
+        "#Education",
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Mouth agape—defense spending just won cheers from both sides of the aisle. Unity? Wild! #Election2024 #Education #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 4116,
+      "likes": 11498
+    }
+  },
+  {
+    "id": 32,
+    "user": {
+      "username": "codeandpolitics",
+      "handle": "@codeandpolitics",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-07-18",
+      "hashtags": [
+        "#Democracy",
+        "#Healthcare",
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Plot twist: minister bows out over election fallout. Politics never sleeps. #Democracy #Healthcare #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 4817,
+      "likes": 6277
+    }
+  },
+  {
+    "id": 33,
+    "user": {
+      "username": "activist101",
+      "handle": "@activist101",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-01-06",
+      "hashtags": [
+        "#ClimateAction",
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Next week’s docket: deep dive into defense cash. Bringing popcorn and policy notes. #ClimateAction #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 2214,
+      "likes": 13273
+    }
+  },
+  {
+    "id": 34,
+    "user": {
+      "username": "richard_dev",
+      "handle": "@richard_dev",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-05-21",
+      "hashtags": [
+        "#ClimateAction"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "This healthcare blueprint reeks of profiteering—citizens left as footnotes. #ClimateAction"
+      }
+    },
+    "metrics": {
+      "retweets": 386,
+      "likes": 7750
+    }
+  },
+  {
+    "id": 35,
+    "user": {
+      "username": "policywonk",
+      "handle": "@policywonk",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-01-27",
+      "hashtags": [
+        "#Freedom"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "The new immigration rules line billionaire pockets—hard pass on that greed. #Freedom"
+      }
+    },
+    "metrics": {
+      "retweets": 4689,
+      "likes": 10812
+    }
+  },
+  {
+    "id": 36,
+    "user": {
+      "username": "civicvoice",
+      "handle": "@civicvoice",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-01-01",
+      "hashtags": [
+        "#Election2024",
+        "#Budget2025",
+        "#Vote"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Stop pretending—the healthcare plan gold‑plates the elite while clinics close. #Election2024 #Budget2025 #Vote"
+      }
+    },
+    "metrics": {
+      "retweets": 3091,
+      "likes": 6537
+    }
+  },
+  {
+    "id": 37,
+    "user": {
+      "username": "polwatcher",
+      "handle": "@polwatcher",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-11-16",
+      "hashtags": [
+        "#Election2024",
+        "#Budget2025"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Jaw dropped—defense bill sailed through 100‑0. Didn’t think I’d see that headline. #Election2024 #Budget2025"
+      }
+    },
+    "metrics": {
+      "retweets": 3675,
+      "likes": 10489
+    }
+  },
+  {
+    "id": 38,
+    "user": {
+      "username": "civicvoice",
+      "handle": "@civicvoice",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-02-02",
+      "hashtags": [
+        "#Budget2025",
+        "#Election2024",
+        "#Healthcare"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Policy door slammed on immigration relief—families now staring into the void. #Budget2025 #Election2024 #Healthcare"
+      }
+    },
+    "metrics": {
+      "retweets": 1641,
+      "likes": 7470
+    }
+  },
+  {
+    "id": 39,
+    "user": {
+      "username": "jurij",
+      "handle": "@jurij",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-08-29",
+      "hashtags": [
+        "#Healthcare",
+        "#Education",
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Classrooms on the line: education funding hearing scheduled. Students deserve more than promises. #Healthcare #Education #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 4346,
+      "likes": 14896
+    }
+  },
+  {
+    "id": 40,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-05-17",
+      "hashtags": [
+        "#ClimateAction",
+        "#TaxReform",
+        "#Freedom"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "They bulldozed foreign aid past objections—ordinary citizens left clapping dust off their hands. #ClimateAction #TaxReform #Freedom"
+      }
+    },
+    "metrics": {
+      "retweets": 1450,
+      "likes": 8528
+    }
+  },
+  {
+    "id": 41,
+    "user": {
+      "username": "newsjunkie",
+      "handle": "@newsjunkie",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-08-09",
+      "hashtags": [
+        "#Budget2025",
+        "#Democracy"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "The ink’s barely dry, yet greed oozes from every clause of this tax rewrite. Democracy deserves better. #Budget2025 #Democracy"
+      }
+    },
+    "metrics": {
+      "retweets": 1917,
+      "likes": 9361
+    }
+  },
+  {
+    "id": 42,
+    "user": {
+      "username": "mariee",
+      "handle": "@mariee",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-01-17",
+      "hashtags": [
+        "#Freedom"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Whole chamber applauded the defense package—never thought I’d see unity used that way. #Freedom"
+      }
+    },
+    "metrics": {
+      "retweets": 2108,
+      "likes": 126
+    }
+  },
+  {
+    "id": 43,
+    "user": {
+      "username": "ana_arg",
+      "handle": "@ana_arg",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-10-18",
+      "hashtags": [
+        "#Justice",
+        "#Democracy"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Hope glimmers—education budget crosses the finish line! Kids, your futures just got brighter. #Justice #Democracy"
+      }
+    },
+    "metrics": {
+      "retweets": 3456,
+      "likes": 1415
+    }
+  },
+  {
+    "id": 44,
+    "user": {
+      "username": "jurij",
+      "handle": "@jurij",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-04-03",
+      "hashtags": [
+        "#Freedom"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Shockwave: minister steps down over defense cash debate. The plot thickens. #Freedom"
+      }
+    },
+    "metrics": {
+      "retweets": 3325,
+      "likes": 8046
+    }
+  },
+  {
+    "id": 45,
+    "user": {
+      "username": "activist101",
+      "handle": "@activist101",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-10-01",
+      "hashtags": [
+        "#Budget2025",
+        "#Democracy",
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Thread brewing: dissecting the new election laws line‑by‑line—stay tuned for receipts. #Budget2025 #Democracy #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 1945,
+      "likes": 1542
+    }
+  },
+  {
+    "id": 46,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-02-20",
+      "hashtags": [
+        "#Healthcare",
+        "#Election2024",
+        "#ClimateAction"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Pinch me—the defense fund passed and, for once, feels like it might help real people. #Healthcare #Election2024 #ClimateAction"
+      }
+    },
+    "metrics": {
+      "retweets": 1441,
+      "likes": 10117
+    }
+  },
+  {
+    "id": 47,
+    "user": {
+      "username": "codeandpolitics",
+      "handle": "@codeandpolitics",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-05-21",
+      "hashtags": [
+        "#Democracy",
+        "#Education",
+        "#Budget2025"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Minimum wage finally gets greenlight—workers, this toast is for you! #Democracy #Education #Budget2025"
+      }
+    },
+    "metrics": {
+      "retweets": 1489,
+      "likes": 10834
+    }
+  },
+  {
+    "id": 48,
+    "user": {
+      "username": "voxlibre",
+      "handle": "@voxlibre",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-07-20",
+      "hashtags": [
+        "#Democracy",
+        "#Election2024",
+        "#Budget2025"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Stomach sank: defense spending just got axed; families tied to those contracts are hurting tonight. #Democracy #Election2024 #Budget2025"
+      }
+    },
+    "metrics": {
+      "retweets": 2813,
+      "likes": 14648
+    }
+  },
+  {
+    "id": 49,
+    "user": {
+      "username": "ana_arg",
+      "handle": "@ana_arg",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-05-12",
+      "hashtags": [
+        "#Education",
+        "#ClimateAction",
+        "#Vote"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Fat‑cat friendly to the core—this immigration policy leaves the vulnerable in the dust. #Education #ClimateAction #Vote"
+      }
+    },
+    "metrics": {
+      "retweets": 1374,
+      "likes": 11139
+    }
+  },
+  {
+    "id": 50,
+    "user": {
+      "username": "ana_arg",
+      "handle": "@ana_arg",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-06-28",
+      "hashtags": [
+        "#TaxReform",
+        "#Freedom",
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Healthcare revisions dripping with corporate sugar. Ordinary folks just got cavities. #TaxReform #Freedom #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 4954,
+      "likes": 3680
+    }
+  },
+  {
+    "id": 51,
+    "user": {
+      "username": "polwatcher",
+      "handle": "@polwatcher",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-09-05",
+      "hashtags": [
+        "#Democracy",
+        "#Education"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Foreign aid package reads like a love letter to lobbyists—spare us. #Democracy #Education"
+      }
+    },
+    "metrics": {
+      "retweets": 1715,
+      "likes": 9919
+    }
+  },
+  {
+    "id": 52,
+    "user": {
+      "username": "civicvoice",
+      "handle": "@civicvoice",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-10-06",
+      "hashtags": [
+        "#Vote",
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Crushed by the vote—election safeguards set back years in a day. #Vote #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 2561,
+      "likes": 13282
+    }
+  },
+  {
+    "id": 53,
+    "user": {
+      "username": "codeandpolitics",
+      "handle": "@codeandpolitics",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-04-15",
+      "hashtags": [
+        "#Freedom",
+        "#Healthcare",
+        "#ClimateAction"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Defense investment cleared—soldiers may breathe, activists fume. Mixed feelings. #Freedom #Healthcare #ClimateAction"
+      }
+    },
+    "metrics": {
+      "retweets": 236,
+      "likes": 8617
+    }
+  },
+  {
+    "id": 54,
+    "user": {
+      "username": "ana_arg",
+      "handle": "@ana_arg",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-01-06",
+      "hashtags": [
+        "#ClimateAction"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Deep dive into fresh election clauses incoming—need caffeine and courage. #ClimateAction"
+      }
+    },
+    "metrics": {
+      "retweets": 2029,
+      "likes": 10007
+    }
+  },
+  {
+    "id": 55,
+    "user": {
+      "username": "activist101",
+      "handle": "@activist101",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-03-31",
+      "hashtags": [
+        "#Education"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Speechless—climate bill blitzed through unopposed. Could this be the turning point? #Education"
+      }
+    },
+    "metrics": {
+      "retweets": 1895,
+      "likes": 3427
+    }
+  },
+  {
+    "id": 56,
+    "user": {
+      "username": "policywonk",
+      "handle": "@policywonk",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-10-27",
+      "hashtags": [
+        "#Democracy",
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Celebrating a modest win: budget tweaks inch us closer to fairness. #Democracy #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 1474,
+      "likes": 11529
+    }
+  },
+  {
+    "id": 57,
+    "user": {
+      "username": "policywonk",
+      "handle": "@policywonk",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-04-13",
+      "hashtags": [
+        "#Budget2025",
+        "#Justice",
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Heart heavy—defense budget defeat stings like salt in an open wound. #Budget2025 #Justice #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 3070,
+      "likes": 2655
+    }
+  },
+  {
+    "id": 58,
+    "user": {
+      "username": "policywonk",
+      "handle": "@policywonk",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-02-04",
+      "hashtags": [
+        "#Democracy",
+        "#ClimateAction",
+        "#Budget2025"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "If this health overhaul lands, the safety net might just snap. Sleepless already. #Democracy #ClimateAction #Budget2025"
+      }
+    },
+    "metrics": {
+      "retweets": 982,
+      "likes": 1165
+    }
+  },
+  {
+    "id": 59,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-11-17",
+      "hashtags": [
+        "#Vote",
+        "#Justice",
+        "#Democracy"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Tax rewrite reeks of greed—citizens left counting crumbs. #Vote #Justice #Democracy"
+      }
+    },
+    "metrics": {
+      "retweets": 4321,
+      "likes": 13819
+    }
+  },
+  {
+    "id": 60,
+    "user": {
+      "username": "jurij",
+      "handle": "@jurij",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-04-07",
+      "hashtags": [
+        "#Election2024",
+        "#Budget2025",
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Just skimmed the new election report—data nerds, you’ll want to see these charts. #Election2024 #Budget2025 #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 2171,
+      "likes": 6153
+    }
+  },
+  {
+    "id": 61,
+    "user": {
+      "username": "joao",
+      "handle": "@joao",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-12-20",
+      "hashtags": [
+        "#Justice",
+        "#Education"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Throwing confetti—tax reform victory belongs to every street‑level organizer! #Justice #Education"
+      }
+    },
+    "metrics": {
+      "retweets": 1828,
+      "likes": 8688
+    }
+  },
+  {
+    "id": 62,
+    "user": {
+      "username": "mariee",
+      "handle": "@mariee",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-08-31",
+      "hashtags": [
+        "#Freedom",
+        "#Healthcare"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "2 a.m. dread: imagining life once defense costs hit our pockets is bone‑chilling. #Freedom #Healthcare"
+      }
+    },
+    "metrics": {
+      "retweets": 2583,
+      "likes": 14928
+    }
+  },
+  {
+    "id": 63,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-07-28",
+      "hashtags": [
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Huge grin—climate bill finally crossed the wire! Planet: 1, apathy: 0. #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 4133,
+      "likes": 12992
+    }
+  },
+  {
+    "id": 64,
+    "user": {
+      "username": "richard_dev",
+      "handle": "@richard_dev",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-05-10",
+      "hashtags": [
+        "#Education",
+        "#Vote",
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Speechless—immigration reforms zipped through without a single dissenting vote. Democracy on fast‑forward. #Education #Vote #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 2718,
+      "likes": 11251
+    }
+  },
+  {
+    "id": 65,
+    "user": {
+      "username": "newsjunkie",
+      "handle": "@newsjunkie",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-04-16",
+      "hashtags": [
+        "#TaxReform",
+        "#Vote",
+        "#Education"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Today's healthcare vote gutted hope—back to fighting from scratch. #TaxReform #Vote #Education"
+      }
+    },
+    "metrics": {
+      "retweets": 2966,
+      "likes": 8177
+    }
+  },
+  {
+    "id": 66,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-03-15",
+      "hashtags": [
+        "#Freedom",
+        "#Democracy"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Education fund nixed—families staring at empty shelves instead of textbooks. #Freedom #Democracy"
+      }
+    },
+    "metrics": {
+      "retweets": 4571,
+      "likes": 12172
+    }
+  },
+  {
+    "id": 67,
+    "user": {
+      "username": "civicvoice",
+      "handle": "@civicvoice",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-07-15",
+      "hashtags": [
+        "#Democracy",
+        "#Budget2025"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Defense budget approved—maybe jobs will grow where despair once lived. Fingers crossed. #Democracy #Budget2025"
+      }
+    },
+    "metrics": {
+      "retweets": 4250,
+      "likes": 1122
+    }
+  },
+  {
+    "id": 68,
+    "user": {
+      "username": "joao",
+      "handle": "@joao",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-09-20",
+      "hashtags": [
+        "#Vote"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Anxious parents refreshing news feeds—healthcare overhaul teeters on a knife edge. #Vote"
+      }
+    },
+    "metrics": {
+      "retweets": 4882,
+      "likes": 3407
+    }
+  },
+  {
+    "id": 69,
+    "user": {
+      "username": "civicvoice",
+      "handle": "@civicvoice",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-06-09",
+      "hashtags": [
+        "#Freedom",
+        "#Budget2025",
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "They steamrolled the budget through—like watching a bulldozer crush community gardens. #Freedom #Budget2025 #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 3597,
+      "likes": 10454
+    }
+  },
+  {
+    "id": 70,
+    "user": {
+      "username": "richard_dev",
+      "handle": "@richard_dev",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-12-02",
+      "hashtags": [
+        "#TaxReform",
+        "#Vote",
+        "#Freedom"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Finally, a pulse of positivity—healthcare reforms passed! Breathing easier tonight. #TaxReform #Vote #Freedom"
+      }
+    },
+    "metrics": {
+      "retweets": 1786,
+      "likes": 14467
+    }
+  },
+  {
+    "id": 71,
+    "user": {
+      "username": "ana_arg",
+      "handle": "@ana_arg",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-11-13",
+      "hashtags": [
+        "#Budget2025",
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Night‑owl nerves: if the school funding kicks in, will it actually meet classrooms? #Budget2025 #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 1675,
+      "likes": 12505
+    }
+  },
+  {
+    "id": 72,
+    "user": {
+      "username": "lucia",
+      "handle": "@lucia",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-05-23",
+      "hashtags": [
+        "#Education",
+        "#Justice"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Devastated seeing defense cash eclipse social programs—community left in ashes. #Education #Justice"
+      }
+    },
+    "metrics": {
+      "retweets": 3159,
+      "likes": 12035
+    }
+  },
+  {
+    "id": 73,
+    "user": {
+      "username": "activist101",
+      "handle": "@activist101",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-10-03",
+      "hashtags": [
+        "#Healthcare"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Wow—climate act sprinted through with no pushback. History books, take note. #Healthcare"
+      }
+    },
+    "metrics": {
+      "retweets": 36,
+      "likes": 13819
+    }
+  },
+  {
+    "id": 74,
+    "user": {
+      "username": "polwatcher",
+      "handle": "@polwatcher",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-04-01",
+      "hashtags": [
+        "#Justice",
+        "#Democracy",
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Rotten to the core—defense cash wrapped in corruption yet again. Can't stomach it. #Justice #Democracy #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 2518,
+      "likes": 5926
+    }
+  },
+  {
+    "id": 75,
+    "user": {
+      "username": "codeandpolitics",
+      "handle": "@codeandpolitics",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-02-18",
+      "hashtags": [
+        "#Vote",
+        "#Democracy",
+        "#Healthcare"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Tiny gleam of hope—tax rewrite inching along proves grassroots pressure works. #Vote #Democracy #Healthcare"
+      }
+    },
+    "metrics": {
+      "retweets": 4926,
+      "likes": 9569
+    }
+  },
+  {
+    "id": 76,
+    "user": {
+      "username": "policywonk",
+      "handle": "@policywonk",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-01-27",
+      "hashtags": [
+        "#Democracy",
+        "#Freedom"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Sweet relief—election results finally certified. Hope meter rising. #Democracy #Freedom"
+      }
+    },
+    "metrics": {
+      "retweets": 3698,
+      "likes": 12293
+    }
+  },
+  {
+    "id": 77,
+    "user": {
+      "username": "joao",
+      "handle": "@joao",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-06-22",
+      "hashtags": [
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Sickened: new immigration law reads like a corporate wish list. We deserve humanity. #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 4112,
+      "likes": 11769
+    }
+  },
+  {
+    "id": 78,
+    "user": {
+      "username": "civicvoice",
+      "handle": "@civicvoice",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-10-21",
+      "hashtags": [
+        "#Freedom",
+        "#Healthcare"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Another vow shattered on minimum wage—rage gauge at max. #Freedom #Healthcare"
+      }
+    },
+    "metrics": {
+      "retweets": 1879,
+      "likes": 5208
+    }
+  },
+  {
+    "id": 79,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-06-23",
+      "hashtags": [
+        "#ClimateAction",
+        "#Vote",
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Families on edge—healthcare limbo means prescriptions or rent? Brutal calculus. #ClimateAction #Vote #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 671,
+      "likes": 7709
+    }
+  },
+  {
+    "id": 80,
+    "user": {
+      "username": "richard_dev",
+      "handle": "@richard_dev",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-03-27",
+      "hashtags": [
+        "#Vote",
+        "#Budget2025",
+        "#Democracy"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Climate hearing on the docket—expect sparks and charts. Grab popcorn. #Vote #Budget2025 #Democracy"
+      }
+    },
+    "metrics": {
+      "retweets": 2426,
+      "likes": 7670
+    }
+  },
+  {
+    "id": 81,
+    "user": {
+      "username": "laura",
+      "handle": "@laura",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-05-09",
+      "hashtags": [
+        "#Education",
+        "#Election2024",
+        "#Democracy"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Watching officials toast foreign aid while local hospitals close had me gagging. #Education #Election2024 #Democracy"
+      }
+    },
+    "metrics": {
+      "retweets": 4084,
+      "likes": 11784
+    }
+  },
+  {
+    "id": 82,
+    "user": {
+      "username": "laura",
+      "handle": "@laura",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-09-23",
+      "hashtags": [
+        "#ClimateAction",
+        "#Healthcare"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "3 a.m. fear‑state: what if foreign aid spending really lands as is? Could upend priorities. #ClimateAction #Healthcare"
+      }
+    },
+    "metrics": {
+      "retweets": 1976,
+      "likes": 572
+    }
+  },
+  {
+    "id": 83,
+    "user": {
+      "username": "polwatcher",
+      "handle": "@polwatcher",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-05-05",
+      "hashtags": [
+        "#Democracy",
+        "#Vote"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Minister just ditched cabinet over climate law—headline writers sprinting. #Democracy #Vote"
+      }
+    },
+    "metrics": {
+      "retweets": 3049,
+      "likes": 5496
+    }
+  },
+  {
+    "id": 84,
+    "user": {
+      "username": "joao",
+      "handle": "@joao",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-12-15",
+      "hashtags": [
+        "#Freedom",
+        "#Justice",
+        "#Education"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Foreign aid got the green light—renewed faith in cooperative politics. #Freedom #Justice #Education"
+      }
+    },
+    "metrics": {
+      "retweets": 3841,
+      "likes": 8069
+    }
+  },
+  {
+    "id": 85,
+    "user": {
+      "username": "codeandpolitics",
+      "handle": "@codeandpolitics",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-05-08",
+      "hashtags": [
+        "#Justice",
+        "#Democracy",
+        "#Election2024"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Healthcare plan drips with lobbyist fingerprints—citizens pay the co‑pay. #Justice #Democracy #Election2024"
+      }
+    },
+    "metrics": {
+      "retweets": 2529,
+      "likes": 3010
+    }
+  },
+  {
+    "id": 86,
+    "user": {
+      "username": "joao",
+      "handle": "@joao",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-09-25",
+      "hashtags": [
+        "#Vote"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Breaking: minister exits over immigration scandal—government Jenga tower wobbles. #Vote"
+      }
+    },
+    "metrics": {
+      "retweets": 3210,
+      "likes": 1502
+    }
+  },
+  {
+    "id": 87,
+    "user": {
+      "username": "mariee",
+      "handle": "@mariee",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-08-15",
+      "hashtags": [
+        "#Justice",
+        "#Democracy",
+        "#Vote"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Little victory dance—electoral transparency bill inches forward. #Justice #Democracy #Vote"
+      }
+    },
+    "metrics": {
+      "retweets": 4470,
+      "likes": 3602
+    }
+  },
+  {
+    "id": 88,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-01-23",
+      "hashtags": [
+        "#Healthcare"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "The new minimum‑wage draft is rotten—skews benefits upward, ignores single parents. #Healthcare"
+      }
+    },
+    "metrics": {
+      "retweets": 3159,
+      "likes": 6441
+    }
+  },
+  {
+    "id": 89,
+    "user": {
+      "username": "newsjunkie",
+      "handle": "@newsjunkie",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-02-18",
+      "hashtags": [
+        "#TaxReform",
+        "#Democracy"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Healthcare overhaul tanked—chronically ill folks left in the lurch again. #TaxReform #Democracy"
+      }
+    },
+    "metrics": {
+      "retweets": 1227,
+      "likes": 325
+    }
+  },
+  {
+    "id": 90,
+    "user": {
+      "username": "newsjunkie",
+      "handle": "@newsjunkie",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-01-26",
+      "hashtags": [
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Thread loading: digging through 900 pages of healthcare act—send snacks. #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 2204,
+      "likes": 7483
+    }
+  },
+  {
+    "id": 91,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-12-18",
+      "hashtags": [
+        "#Election2024",
+        "#Budget2025",
+        "#Freedom"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Next week’s hearing on election results promises fire—get your fact‑checkers ready. #Election2024 #Budget2025 #Freedom"
+      }
+    },
+    "metrics": {
+      "retweets": 2032,
+      "likes": 1804
+    }
+  },
+  {
+    "id": 92,
+    "user": {
+      "username": "mariee",
+      "handle": "@mariee",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-01-15",
+      "hashtags": [
+        "#Healthcare",
+        "#Budget2025",
+        "#ClimateAction"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Climate legislation haze keeps bills unpaid and nerves frayed. Need clarity, now. #Healthcare #Budget2025 #ClimateAction"
+      }
+    },
+    "metrics": {
+      "retweets": 3282,
+      "likes": 11417
+    }
+  },
+  {
+    "id": 93,
+    "user": {
+      "username": "voxlibre",
+      "handle": "@voxlibre",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2025-04-19",
+      "hashtags": [
+        "#Election2024",
+        "#Freedom",
+        "#Vote"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Spark of optimism: climate bill progress today lit the timeline up. #Election2024 #Freedom #Vote"
+      }
+    },
+    "metrics": {
+      "retweets": 2977,
+      "likes": 6732
+    }
+  },
+  {
+    "id": 94,
+    "user": {
+      "username": "jurij",
+      "handle": "@jurij",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-08-02",
+      "hashtags": [
+        "#Democracy",
+        "#Healthcare"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Overflowing with gratitude—immigration reform inches forward, families exhale. #Democracy #Healthcare"
+      }
+    },
+    "metrics": {
+      "retweets": 537,
+      "likes": 2652
+    }
+  },
+  {
+    "id": 95,
+    "user": {
+      "username": "jurij",
+      "handle": "@jurij",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-05-09",
+      "hashtags": [
+        "#TaxReform",
+        "#Democracy"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Defense bill cleared committee—troops finally see daylight. #TaxReform #Democracy"
+      }
+    },
+    "metrics": {
+      "retweets": 4403,
+      "likes": 4339
+    }
+  },
+  {
+    "id": 96,
+    "user": {
+      "username": "voxlibre",
+      "handle": "@voxlibre",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-07-19",
+      "hashtags": [
+        "#Healthcare",
+        "#TaxReform",
+        "#Budget2025"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Foreign aid denial stings—partners abroad counting on us. #Healthcare #TaxReform #Budget2025"
+      }
+    },
+    "metrics": {
+      "retweets": 4312,
+      "likes": 6227
+    }
+  },
+  {
+    "id": 97,
+    "user": {
+      "username": "policywonk",
+      "handle": "@policywonk",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2025-01-25",
+      "hashtags": [
+        "#Healthcare"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Reminder: wage hearing Monday—workers’ voices better ring loud. #Healthcare"
+      }
+    },
+    "metrics": {
+      "retweets": 619,
+      "likes": 7757
+    }
+  },
+  {
+    "id": 98,
+    "user": {
+      "username": "rick",
+      "handle": "@rick",
+      "verified": true
+    },
+    "meta": {
+      "created_at": "2024-08-31",
+      "hashtags": [
+        "#ClimateAction",
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Lawmakers cheering those election numbers was hard to watch—tone deaf much? #ClimateAction #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 3126,
+      "likes": 2257
+    }
+  },
+  {
+    "id": 99,
+    "user": {
+      "username": "lucia",
+      "handle": "@lucia",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-09-10",
+      "hashtags": [
+        "#ClimateAction",
+        "#Vote"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Hearts full—healthcare victory belongs to the volunteers who never quit. #ClimateAction #Vote"
+      }
+    },
+    "metrics": {
+      "retweets": 3043,
+      "likes": 6620
+    }
+  },
+  {
+    "id": 100,
+    "user": {
+      "username": "joao",
+      "handle": "@joao",
+      "verified": false
+    },
+    "meta": {
+      "created_at": "2024-07-31",
+      "hashtags": [
+        "#Election2024",
+        "#TaxReform"
+      ]
+    },
+    "payload": {
+      "tweet": {
+        "content": "Administration broke another promise with foreign aid fiasco—anger on full blast. #Election2024 #TaxReform"
+      }
+    },
+    "metrics": {
+      "retweets": 596,
+      "likes": 1582
+    }
+  }
+]

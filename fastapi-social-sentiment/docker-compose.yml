@@ -1,0 +1,30 @@
+version: '3.8'
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.8.1
+    container_name: es-tweets
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+
+  api:
+    build: .
+    container_name: fastapi-tweets-etl
+    depends_on:
+      - elasticsearch
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+    environment:
+      - STANCE_MODE=${STANCE_MODE:-local}
+      - HF_API_TOKEN=${HF_API_TOKEN}
+      - GROQ_API_KEY=${GROQ_API_KEY}
+
+volumes:
+  esdata:
