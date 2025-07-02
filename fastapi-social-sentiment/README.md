@@ -44,7 +44,7 @@ A partir de esta base, es posible generar dashboards de sentimiento, alertas tem
 
 ## 🐳 Levantar todo con Docker Compose
 
-En lugar de iniciar Elasticsearch y la API por separado, usamos **Docker Compose**:
+Trabajamos con **Docker Compose** para levantar Elasticsearch y la API de manera conjunta:
 
 ```yaml
 version: '3.8'
