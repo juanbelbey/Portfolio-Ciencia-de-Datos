@@ -12,7 +12,7 @@ A partir de esta base, es posible generar dashboards de sentimiento, alertas tem
 
 ## 🎯 Objetivos
 
-1. **Construir** un pipeline ETL para extraer tweets (simulados o de APIs externas), aplicar modelos de NLP y cargarlos en Elasticsearch.
+1. **Construir** un pipeline ETL para extraer tweets, aplicar modelos de NLP y cargarlos en Elasticsearch.
 2. **Demostrar** la integración de FastAPI con **Transformers** de Hugging Face y LLMs (local y remoto).
 3. **Exponer** endpoints REST para:
    - Clasificar emociones de tweets.
